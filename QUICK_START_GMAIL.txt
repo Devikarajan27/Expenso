@@ -1,0 +1,113 @@
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   📧 GMAIL AUTO-IMPORT - QUICK START                     ║
+║                                                           ║
+║   Automatically import transactions from Gmail!          ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+
+⚠️ IMPORTANT NOTE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Gmail Auto-Import feature requires the JavaMail library.
+
+Due to the complexity of setting this up, here are your options:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPTION 1: Use Bank Statement Import (EASIEST) ✅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This is THE BEST way to auto-import transactions!
+
+STEPS:
+1. Login to your net banking
+2. Download bank statement as CSV
+3. Click "📥 Import Transactions" in app
+4. Select your CSV file
+5. Done! All transactions imported automatically
+
+✅ No setup required
+✅ Works immediately
+✅ Supports all banks
+✅ Very fast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPTION 2: Manual Email Paste (SIMPLE) ✅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quick way to import from emails:
+
+STEPS:
+1. Open Gmail
+2. Find transaction email
+3. Copy entire email (Ctrl+A, Ctrl+C)
+4. Click "📥 Import Transactions" in app
+5. Go to "📧 Email Import" tab
+6. Paste email content
+7. Click "🔍 Parse Email"
+8. Done!
+
+✅ No setup required
+✅ Works right now
+✅ Very easy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPTION 3: Gmail Auto-Fetch (ADVANCED) ⚙️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Fully automatic email import from Gmail.
+
+REQUIREMENTS:
+• Download JavaMail library (javax.mail-1.6.2.jar)
+• Place in lib/ folder
+• Update compile.bat and run.bat
+• Generate Gmail App Password
+• Enable IMAP in Gmail
+
+FULL INSTRUCTIONS:
+See GMAIL_AUTO_IMPORT_SETUP.md for complete guide
+
+⚠️ This is advanced and requires setup!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 RECOMMENDATION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For 99% of users, we recommend:
+
+👉 USE BANK STATEMENT IMPORT (Option 1)
+
+Why?
+• Fastest and easiest
+• No setup required
+• Works with ALL banks
+• Can import months of data at once
+• Most reliable
+
+HOW TO:
+1. Download CSV from net banking (monthly statement)
+2. Import in app
+3. That's it!
+
+You can import your entire transaction history in under 1 minute!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 MORE HELP:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+See these files for detailed guides:
+
+• TRANSACTION_IMPORT.md - Complete import guide
+• GMAIL_AUTO_IMPORT_SETUP.md - Gmail setup (advanced)
+• README_JAVA.md - General app documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Happy tracking! 💰✨
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
