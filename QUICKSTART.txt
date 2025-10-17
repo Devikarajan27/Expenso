@@ -1,0 +1,134 @@
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   💰 EXPENSO - JAVA SWING FINANCE MANAGER                ║
+║                                                           ║
+║   Professional Desktop Application for Expense Tracking  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+
+🚀 QUICK START GUIDE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 REQUIREMENTS
+• Java JDK 8 or higher installed
+• Java added to system PATH
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▶️ TO RUN THE APPLICATION
+
+  Option 1: Double-click "run.bat"
+  
+  Option 2: Open terminal and type:
+    compile.bat  (first time only)
+    run.bat
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ KEY FEATURES
+
+1. EXPENSE TRACKING
+   • Add new expenses with description, amount, category, date
+   • View all expenses in a table
+   • Filter by category
+   • Delete individual or all expenses
+
+2. DATA VISUALIZATION
+   • Pie Chart: Spending by category
+   • Bar Chart: 7-day spending trend
+   • Category Breakdown: Detailed statistics
+
+3. BUDGET MANAGEMENT
+   • Set monthly budget
+   • Real-time progress tracking
+   • Color-coded alerts (green/yellow/red)
+
+4. SMART ALERTS
+   • 75% - Early warning
+   • 90% - Critical alert
+   • 100%+ - Budget exceeded
+
+5. DATA PERSISTENCE
+   • Auto-save to: C:\Users\[You]\.expenso\
+   • Data persists across sessions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 HOW TO USE
+
+STEP 1: Set Your Budget
+  1. Enter amount in "Monthly Budget" field (left panel)
+  2. Click "SET BUDGET"
+  3. See progress bar update
+
+STEP 2: Add Expenses
+  1. Fill in Description (e.g., "Lunch")
+  2. Enter Amount (e.g., 25.50)
+  3. Select Category from dropdown
+  4. Enter Date (format: 2025-10-02)
+  5. Click "ADD EXPENSE"
+
+STEP 3: View & Analyze
+  1. Check expense table (right panel)
+  2. Use filter dropdown to view specific categories
+  3. Switch between charts: "By Category" / "Trend"
+  4. Review category breakdown at bottom
+
+STEP 4: Manage Data
+  • Click "Delete" in table to remove expense
+  • Click "CLEAR ALL" to remove all (with confirmation)
+  • Watch for budget alerts at top
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📂 FILE STRUCTURE
+
+Expenso/
+  ├─ src/               (Java source code)
+  ├─ bin/               (Compiled classes)
+  ├─ compile.bat        (Compile script)
+  ├─ run.bat           (Run script)
+  └─ README_JAVA.md    (Detailed documentation)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎨 CATEGORIES
+
+  🍔 Food            🚗 Transport
+  🛍️ Shopping        🎮 Entertainment
+  📄 Bills           🏥 Healthcare
+  📚 Education       📦 Other
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🆘 TROUBLESHOOTING
+
+Q: Application won't start?
+A: Check Java is installed: java -version
+
+Q: Compilation error?
+A: Ensure javac is available: javac -version
+
+Q: Data not saving?
+A: Check file permissions in your user directory
+
+Q: Need help?
+A: Read README_JAVA.md for detailed documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 TIPS FOR SUCCESS
+
+• Track expenses daily for accuracy
+• Set realistic budgets based on actual spending
+• Review trend chart weekly
+• Pay attention to budget alerts
+• Use consistent categories
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 ENJOY TRACKING YOUR FINANCES!
+
+Track Smart. Spend Wisely. Live Better. 💰✨
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
